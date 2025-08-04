@@ -1,21 +1,23 @@
-🛒 React E-Commerce Store
+# 🛒 React E-Commerce Store
 
-https://react-ecommerce-store-ibdf.onrender.com/
+🔗 [Live-Demo ansehen](https://react-ecommerce-store-ibdf.onrender.com/)
 
-Ein einfacher Online-Shop, entwickelt mit React, Context API und Tailwind CSS. Dieser Projekt dient als Lernübung zum Aufbau eines modernen Frontend-Projekts mit zentralem Zustandsmanagement.
+Ein einfacher, moderner Online-Shop, entwickelt mit **React**, **Context API** und **Tailwind CSS**.  
+Dieses Projekt dient als Lernbeispiel zur Umsetzung eines responsiven Frontend-Projekts mit zentralem Zustandsmanagement.
 
-🔧 Technologien
-	- React mit Hooks
-	- Context API für globale Zustandsverwaltung
-	- Tailwind CSS für das Styling
-	- localStorage zum Speichern des Warenkorbs
-	- Vite für die Projektstruktur und schnellen Build
+## 🔧 Technologien
 
-✨ Funktionen
-	- Anzeige einer Produktliste
-	- Hinzufügen von Produkten zum Warenkorb
-	- Erhöhung der Produktanzahl bei erneutem Hinzufügen
-	- Entfernen von Produkten aus dem Warenkorb
-	- Berechnung des Gesamtpreises
-	- Speicherung des Warenkorbs im localStorage
+- **React** mit Hooks  
+- **Context API** für globale Zustandsverwaltung  
+- **Tailwind CSS** für modernes, responsives Styling  
+- **localStorage** zur Speicherung des Warenkorbs  
+- **Vite** für schnelle Entwicklung und effizientes Build-Tooling  
 
+## ✨ Funktionen
+
+- Darstellung einer Produktliste  
+- Hinzufügen von Produkten zum Warenkorb  
+- Automatische Erhöhung der Menge bei erneutem Hinzufügen  
+- Entfernen von Produkten aus dem Warenkorb  
+- Dynamische Berechnung des Gesamtpreises  
+- Persistenter Warenkorb durch Speicherung im localStorage
